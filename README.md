@@ -1,2 +1,4 @@
 # Different-Factors-That-Affect-The-Country-s-GDP
 An agency has decided to study the different factors that affect the country’s GDP. For this purpose, I have collected the data of 228 countries.
+The objective of this project is to develop a predictive model that can accurately forecast a country's GDP by using Random Forest Regressor and Linear Regression algorithms. 
+After training and testing both models, we found that the Random Forest Regressor had a lower RMSE and MLSE than Linear Regression. The RMSE for Random Forest Regressor was 4359.0, while for Linear Regression it was 16379.30. The MLSE for Random Forest Regressor was 7.121, while for Linear Regression it was 7.121. This indicates that the Random Forest Regressor model is better at predicting the GDP of a country than the Linear Regression model.
